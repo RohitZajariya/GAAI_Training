@@ -1,0 +1,22 @@
+{
+  "company": "Microsoft",
+  "stock_code": "MSFT",
+  "ticker_info": {
+    "company": "Microsoft",
+    "ticker": "MSFT",
+    "exchange": "NASDAQ",
+    "confidence": "high"
+  },
+  "analysis": {
+    "company_name": "Microsoft",
+    "stock_code": "MSFT",
+    "newsdesc": "Microsoft, along with Amazon and Google, has warned its H-1B visa-holding employees to remain in the U.S. amid changes to visa applications announced by President Trump, while broader market discussions reflect fluctuations in investment strategies amid record highs and concerns about potential market bubbles.",
+    "sentiment": "Neutral",
+    "people_names": "Donald Trump",
+    "places_names": "United States",
+    "other_companies_referred": "Amazon, Google, AT&T, Seagate Technology Holdings, Asana",
+    "related_industries": "Technology, Immigration, Telecommunications",
+    "market_implications": "Investors may remain cautious as visa changes could impact workforce dynamics in tech companies.",
+    "confidence_score": "0.75"
+  }
+}
