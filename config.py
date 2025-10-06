@@ -17,7 +17,7 @@ GPT4_MINI_MODEL_NAME = "gpt-4-mini"
 EMBEDDING_MODEL_NAME = "text-embedding-3-small"
 
 # Pinecone Configuration
-PINECONE_API_KEY = "your_pinecone_api_key_here"
+PINECONE_API_KEY = "pcsk_Ey7ZP_EcwGPnAU1ooKcioAFkfiPiTcYAd3tXwQCrveBt5uwYfKyBWC3jS88vX2ZsfcTY8"
 PINECONE_INDEX_NAME = "agentic-rag-kb"
 
 # Note: Using Azure OpenAI for self-critique instead of Gemini
